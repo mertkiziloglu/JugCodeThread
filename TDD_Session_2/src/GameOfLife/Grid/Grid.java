@@ -1,4 +1,4 @@
-package Grid;
+package GameOfLife.Grid;
 
 public class Grid {
     public Grid() {
